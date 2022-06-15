@@ -6,8 +6,4 @@ def maxNum(x, y):
 
 
 def numLen(x):
-    """
-
-    :type x: int
-    """
-    print(len(x))
+    return len(x)
