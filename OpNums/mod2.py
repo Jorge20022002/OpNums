@@ -1,3 +1,3 @@
 def meanNum (v, y):
-    sum(x + y)/2
+    sum(v + y)/2
 
