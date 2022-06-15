@@ -1,3 +1,3 @@
-def meanNum (v, y):
-    sum(v + y)/2
+def meanNum(v, y):
+    sum(x + y)/2
 
