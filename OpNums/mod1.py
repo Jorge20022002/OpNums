@@ -5,9 +5,9 @@ def maxNum(x, y):
         print(y)
 
 
-def numlen(x):
+def numLen(x):
     """
 
     :type x: int
     """
-    print(len(x))
+    print(len.__str__(x))
