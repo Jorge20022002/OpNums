@@ -10,4 +10,4 @@ def numLen(x):
 
     :type x: int
     """
-    print(len.__str__(x))
+    print(len(x))
